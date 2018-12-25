@@ -1,0 +1,17 @@
+Package: tableautools
+Type: Package
+Title: Package Containing Tableau REST API, XML Modification, tabcmd, and Repository Tools
+Version: 0.0.0.9000
+Author: Konstantin Greger
+Maintainer: Konstantin Greger <kgreger@tableau.com>
+Description: This package contains wrappers for the Tableau REST API, XML 
+    modification, tabcmd and repository tools. It's the R implementation of the
+    famous and well-established tableau_tools Python package. While the original 
+    package as well as this R implementation are maintained by Tableau 
+    employees, it is not an officially supported library. If you have questions 
+    or issues with the library, please use the GitHub site or e-mail Konstantin 
+    Greger directly. Tableau Support will not answer questions regarding the 
+    code.
+License: MIT
+Encoding: UTF-8
+LazyData: true
